@@ -1,0 +1,5 @@
+OBJECT_BASE 4414600.btg
+OBJECT VGIS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 89.046570 24.158688 15.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 89.052316 24.146373 15.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 89.049376 24.153666 16.1 0.00

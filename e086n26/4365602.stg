@@ -1,0 +1,5 @@
+OBJECT_BASE 4365602.btg
+OBJECT VNRB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 86.737034 26.509691 78.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 86.744924 26.505615 77.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 86.737619 26.510620 78.6 0.00
